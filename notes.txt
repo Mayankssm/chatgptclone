@@ -1,0 +1,8 @@
+password GnhSHiuSmxrNsmmX
+username mayanksshreemal
+
+mongodb+srv://mayanksshreemal:<password>@cluster0.owezmi4.mongodb.net/
+
+
+openai secret key
+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
